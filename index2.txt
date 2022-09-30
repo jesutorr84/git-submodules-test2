@@ -1,3 +1,5 @@
 Archivo de prueba en el submodulo
 
 Nueva entrada para el archivo del submodulo.
+
+Nueva entrada desde el submodulo.
