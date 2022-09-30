@@ -7,3 +7,5 @@ Nueva entrada desde el submodulo.
 Nueva entrada desde el proyecto padre.
 
 Cambio en rama test.
+
+Nueva entrada desde el proyecto padre sólo en la rama test.
